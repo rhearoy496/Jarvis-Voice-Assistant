@@ -37,6 +37,11 @@ Ollama (Local LLM) → Edge TTS → Audio Output
 
 ---
 
+## 📷 Screenshots
+
+<img width="1019" height="255" alt="image" src="https://github.com/user-attachments/assets/bacf0148-ebcf-4494-9649-05bc3e0d60fe" />
+
+
 ## 📦 Installation
 
 ### 1️⃣ Clone the repository
